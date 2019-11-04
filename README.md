@@ -1,7 +1,7 @@
 # Genomics Workshop 2020 August XX - XX
 
 ## Location
-Catalina Island Wrigley Institute
+![Catalina Island Wrigley Institute](https://dornsife.usc.edu/wrigley/)
 
 ## Goals
 The goals for this workshop were determined by the Steering Committee and include the following:
