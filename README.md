@@ -25,6 +25,7 @@ In addition to presentations, we invite posters on any of the themes highlighted
 
 ## August 15
 ### Day 1: Arrival and Dinner
+More information will be posted about travel after applications are accepted for the workshop.
 
 ## August 16
 ### Morning Day 2: Presentations: Hypothesis Testing and Integrative Analyses in Genomics
@@ -42,6 +43,8 @@ In this discussion we will invite stories and mini-posters about best practicies
 
 ### Evening Day 2: Poster session
 
+We invite poster abstracts on any of the themes highlighted in the workshop schedule.
+
 ## August 17
 ### Morning Day 3: Presentations: Seascape genomes and seascape data
 
@@ -56,7 +59,9 @@ How to use genomic data to define management units is not well resolved in marin
 
 Along similar lines, next generation sequencing is a new technology that can provide a large amount of information, but a large amount of sequencing data is not always informative toward understanding adaptation. In small breakout groups, we will discuss when knowing the genes gives important insights into adaptation, conservation, and other questions that cannot be gleaned from more traditional (e.g., phenotype-based) approaches.
 
-### Evening Day 3: poster session
+### Evening Day 3: Poster session
+
+We invite poster abstracts on any of the themes highlighted in the workshop schedule.
 
 ## August 18
 ### Morning Day 4: Presentations: Connecting genotype to phenotype with transgenics 
@@ -70,3 +75,4 @@ We anticipate that many interesting discussions will arise during the sessions. 
 
 ## August 19
 ### Day 5: Departure
+More information will be posted about travel after applications are accepted for the workshop.
