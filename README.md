@@ -1,4 +1,4 @@
-# Genomics Workshop 2020 August XX - XX
+# Genomics Workshop 2020 August 15-19
 
 ## Location
 [Catalina Island Wrigley Institute](https://dornsife.usc.edu/wrigley/)
@@ -23,12 +23,16 @@ In addition to presentations, we invite posters on any of the themes highlighted
 
 ## Schedule
 
-### Morning 1: Presentations: Hypothesis Testing and Integrative Analyses in Genomics
+## August 15
+### Day 1: Arrival and Dinner
+
+## August 16
+### Morning Day 2: Presentations: Hypothesis Testing and Integrative Analyses in Genomics
 
 We invite presentations for testing hypotheses in genomics from a variety of marine and non-marine systems
 that go beyond simple "identify the genes." Abstracts that clearly state the hypothesis being tested and the outcome of the test will be given the highest score.
 
-### Afternoon 1: Discussion of filtering, standards, and best practices
+### Afternoon Day 2: Discussion of filtering, standards, and best practices
 
 High heterozygosity and many types of complex mutations (structural variants, index, and triallelic sites)
 appear to be common in marine organisms. These qualities can make *de novo* reference genome assembly 
@@ -36,28 +40,33 @@ difficult. In addition, many genomic analyses can be biased by the mapping algor
 
 In this discussion we will invite stories and mini-posters about best practicies, what you've learned, pitfalls to watch out for, and "what I wish I knew when I started." Note that we don't want to focus too much on methods that may become outdated in a few years, but we recognize that we need to identify and define some best practices and guidelines for genomics data analysis. Applications that submit stories or ideas for this discussion (in addition to abstracts) will be given a higher score.
 
-### Evening 1: Poster session
+### Evening Day 2: Poster session
 
-### Morning 2: Presentations: Seascape genomes and seascape data
+## August 17
+### Morning Day 3: Presentations: Seascape genomes and seascape data
 
 A major hurdle in seascape genomics is the lack of organized environmental/oceanographic data needed to analyze what factors drive reproductive isolation and local adaptation in marine systems.
 
 We invite presentations for seascape genomics studies, oceanography data resources, and marine climate change models (particularly for estuarine and coastal areas). We encourage oceanographers that have access to the data and are interested in developing collaborations with genomicists to apply for the workshop. Applicants that demonstrate knowledge in how to find and use publically available environmental/oceanographic data will be given a higher score.
 
 
-### Afternoon 2: Discussion of Using genomic data to define management units in marine systems and when the study question requires knowing the genes
+### Afternoon Day 3: Discussion of Using genomic data to define management units in marine systems and when the study question requires knowing the genes
 
 How to use genomic data to define management units is not well resolved in marine systems, where lack of differentiation genome-wide does not always imply current connectivity. In addition, local adaptated ecotypes can occur below the scale of gene flow or management unit in marine fishery species. In small breakout groups, we will discuss how to interpret a signals of no genome-wide differentiation interspersed with genomic regions of highly elevated differentiation in the context of defining management units for fisheries and conservation. 
 
 Along similar lines, next generation sequencing is a new technology that can provide a large amount of information, but a large amount of sequencing data is not always informative toward understanding adaptation. In small breakout groups, we will discuss when knowing the genes gives important insights into adaptation, conservation, and other questions that cannot be gleaned from more traditional (e.g., phenotype-based) approaches.
 
-### Evening 2: poster session
+### Evening Day 3: poster session
 
-### Morning 3: Presentations: Connecting genotype to phenotype with transgenics 
+## August 18
+### Morning Day 4: Presentations: Connecting genotype to phenotype with transgenics 
 
 To date, only a few marine species have well developed tools for genetic manipulation. In this session, we invite presentations on the successes and roadblocks in starting a transgenic project in aquatic (marine and non-marine) systems.
 Abstracts that have made sufficient progress on a transgenic progress to share results will be given the highest score.
 
-### Afternoon 3: Time for breakout groups, collaborations, etc.
+### Afternoon Day 4: Time for breakout groups, collaborations, etc.
 
 We anticipate that many interesting discussions will arise during the sessions. This afternoon will have open time to continue those discussions. 
+
+## August 19
+### Day 5: Departure
