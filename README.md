@@ -1,7 +1,7 @@
 # Genomics Workshop 2020 August XX - XX
 
 ## Location
-![Catalina Island Wrigley Institute](https://dornsife.usc.edu/wrigley/)
+[Catalina Island Wrigley Institute](https://dornsife.usc.edu/wrigley/)
 
 ## Goals
 The goals for this workshop were determined by the Steering Committee and include the following:
@@ -13,7 +13,7 @@ The goals for this workshop were determined by the Steering Committee and includ
 
 
 ## Application
-![RCN-ECS Genomics Workshop Application](https://docs.google.com/forms/d/16vNuiXOmvcmsePJvz-6jZAqT3vB4qrpqN4pN-4zCxGw/edit)
+[RCN-ECS Genomics Workshop Application](https://docs.google.com/forms/d/16vNuiXOmvcmsePJvz-6jZAqT3vB4qrpqN4pN-4zCxGw/edit)
 
 The application is due Dec 31, 2019. We have funding to bring together ~50 people. All workshop costs and domestic travel costs will be covered by the RCN. Unfortunately, we do not have funds to reimburse international travel.
 
