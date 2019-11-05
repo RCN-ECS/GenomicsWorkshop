@@ -55,7 +55,7 @@ A major hurdle in seascape genomics is the lack of organized environmental/ocean
 We invite presentations for seascape genomics studies, oceanography data resources, and marine climate change models (particularly for estuarine and coastal areas). We encourage oceanographers that have access to the data and are interested in developing collaborations with genomicists to apply for the workshop. Applicants with marine expertise who demonstrate knowledge in how to find and use publically available environmental/oceanographic data will be given a higher score. Applicants without expertise in this area who describe how this workshop session will be a good professional development opportunity will be given a higher score.
 
 
-### Afternoon Day 3: Discussion of Using genomic data to define management units in marine systems and when the study question requires knowing the genes
+### Afternoon Day 3: Discussion of *Using genomic data to define management units in marine systems* and *When the study question requires knowing the genes*
 
 How to use genomic data to define management units is not well resolved in marine systems, where lack of differentiation genome-wide does not always imply current connectivity. In addition, local adaptated ecotypes can occur below the scale of gene flow or management unit in marine fishery species. In small breakout groups, we will discuss how to interpret a signals of no genome-wide differentiation interspersed with genomic regions of highly elevated differentiation in the context of defining management units for fisheries and conservation. 
 
