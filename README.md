@@ -41,7 +41,7 @@ High heterozygosity and many types of complex mutations (structural variants, in
 appear to be common in marine organisms. These qualities can make *de novo* reference genome assembly 
 difficult. In addition, many genomic analyses can be biased by the mapping algorithm, how distant the sample is from the reference, type of sequencing, sources of non-independence in genomic datasets (e.g. related or inbred individuals, complex demography), and choices made in filtering (e.g. thresholds for missing data, which individuals were included, etc.). The best practices for filtering data for analyses are not always clear, as they can be specific to each genome and dataset.
 
-In this discussion we will invite stories and mini-posters about best practices, what you've learned, pitfalls to watch out for, and "what I wish I knew when I started." Note that we don't want to focus too much on methods that may become outdated in a few years, but we recognize that we need to identify and define some best practices and guidelines for genomics data analysis. Applications that submit stories or ideas for this discussion (in addition to abstracts) will be given a higher score.
+In this discussion we will invite stories and mini-posters about best practices, what you've learned, pitfalls to watch out for, and "what I wish I knew when I started." Note that we don't want to focus too much on methods that may become outdated in a few years, but we recognize that we need to identify and define some best practices and guidelines for genomics data analysis. Applicants with genomics expertise who submit stories or ideas for this discussion (in addition to abstracts) will be given a higher score.
 
 ### Evening Day 2: Poster session
 
@@ -52,7 +52,7 @@ We invite poster abstracts on any of the themes highlighted in the workshop sche
 
 A major hurdle in seascape genomics is the lack of organized environmental/oceanographic data needed to analyze what factors drive reproductive isolation and local adaptation in marine systems.
 
-We invite presentations for seascape genomics studies, oceanography data resources, and marine climate change models (particularly for estuarine and coastal areas). We encourage oceanographers that have access to the data and are interested in developing collaborations with genomicists to apply for the workshop. Applicants that demonstrate knowledge in how to find and use publically available environmental/oceanographic data will be given a higher score.
+We invite presentations for seascape genomics studies, oceanography data resources, and marine climate change models (particularly for estuarine and coastal areas). We encourage oceanographers that have access to the data and are interested in developing collaborations with genomicists to apply for the workshop. Applicants with marine expertise who demonstrate knowledge in how to find and use publically available environmental/oceanographic data will be given a higher score.
 
 
 ### Afternoon Day 3: Discussion of Using genomic data to define management units in marine systems and when the study question requires knowing the genes
