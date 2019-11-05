@@ -17,7 +17,9 @@ The goals for this workshop were determined by the Steering Committee and includ
 
 The application is due Dec 31, 2019. We have funding to bring together ~50 people. All workshop costs and domestic travel costs will be covered by the RCN. Unfortunately, we do not have funds to reimburse international travel.
 
-There will be three sessions for presentations and in the application there is an opportunity to submit abstracts for one of these sessions. If your application is accepted for the workshop but we are unable to schedule your presentation, we will invite you to present a poster instead.
+We encourage all applicants to submit an abstract for a talk or poster!
+
+There will be three sessions for presentations and in the application there is an opportunity to submit abstracts for one of these sessions.  If your application is accepted for the workshop but we are unable to schedule your presentation, we will invite you to present a poster instead.
 
 In addition to presentations, we invite posters on any of the themes highlighted in the schedule.
 
