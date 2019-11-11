@@ -48,7 +48,7 @@ In this discussion we will invite stories and mini-posters about best practices,
 We invite poster abstracts on any of the themes highlighted in the workshop schedule.
 
 ## August 17
-### Morning Day 3: Presentations: Seascape genomes and seascape data
+### Morning Day 3: Presentations: Seascape genomics and seascape data
 
 A major hurdle in seascape genomics is the lack of organized environmental/oceanographic data needed to analyze what factors drive reproductive isolation and local adaptation in marine systems.
 
