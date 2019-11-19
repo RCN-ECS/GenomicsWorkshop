@@ -8,7 +8,7 @@ The goals for this workshop were determined by the Steering Committee and includ
 
 * Develop new connections among marine biologists, oceanographers, and non-marine evolutionary biologists
 * Brainstorm and exchange ideas on ways to bring marine genomics studies up to the forefront of evolutionary thinking
-* Develop concensus on best practices in genomics data analysis, defining management units in marine systems, and when understanding adaptation requires knowing the genes
+* Develop consensus on best practices in genomics data analysis, defining management units in marine systems, and when understanding adaptation requires knowing the genes
 * Produce one or more product(s) based on the discussions from this workshop (product type(s) to be determined at the workshop, but applicants should be prepared to contribute to ongoing discussions after the workshop is over)
 
 
