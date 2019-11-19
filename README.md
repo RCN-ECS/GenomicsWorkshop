@@ -13,7 +13,7 @@ The goals for this workshop were determined by the Steering Committee and includ
 
 
 ## Application
-[RCN-ECS Genomics Workshop Application](https://docs.google.com/forms/d/16vNuiXOmvcmsePJvz-6jZAqT3vB4qrpqN4pN-4zCxGw/edit)
+[RCN-ECS Genomics Workshop Application](https://docs.google.com/forms/d/16vNuiXOmvcmsePJvz-6jZAqT3vB4qrpqN4pN-4zCxGw/view)
 
 The application is due on January 15, 2019. We have funding to bring together ~50 people. All workshop costs and domestic travel costs will be covered by the RCN. Unfortunately, we do not have funds to reimburse international travel.
 
