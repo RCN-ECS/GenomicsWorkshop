@@ -32,7 +32,7 @@ More information will be posted about travel after applications are accepted for
 ## August 16
 ### Morning Day 2: Presentations: Hypothesis Testing and Integrative Analyses in Genomics
 
-We invite presentations for testing hypotheses in genomics from a variety of marine and non-marine systems
+We invite presentations from a variety of marine and non-marine systems
 that go beyond simple "identify the genes." Abstracts that clearly state the hypothesis being tested and the outcome of the test will be given the highest score, or abstracts that integrate differents levels of data (e.g. phenotypic, genomic, population) to give new insights into classical evolutionary questions.
 
 ### Afternoon Day 2: Discussion of filtering, standards, and best practices
