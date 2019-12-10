@@ -43,9 +43,9 @@ difficult. In addition, many genomic analyses can be biased by the mapping algor
 
 In this discussion we will invite stories and mini-posters about best practices, what you've learned, pitfalls to watch out for, and "what I wish I knew when I started." Note that we don't want to focus too much on methods that may become outdated in a few years, but we recognize that we need to identify and define some best practices and guidelines for genomics data analysis. Applicants with genomics expertise who submit stories or ideas for this discussion (in addition to abstracts) will be given a higher score. Applicants without expertise in this area who describe how this workshop session will be a good professional development opportunity will be given a higher score.
 
-### Evening Day 2: Poster session
+### Evening Day 2: Poster session and model/simulation demos
 
-We invite poster abstracts on any of the themes highlighted in the workshop schedule.
+We invite poster abstracts on any of the themes highlighted in the workshop schedule. We also invite people working with models and simulations (oceanographic or evolutionary) to set up a laptop and share their simulations.
 
 ## August 17
 ### Morning Day 3: Presentations: Seascape genomics and seascape data
@@ -61,9 +61,9 @@ How to use genomic data to define management units is not well resolved in marin
 
 Along similar lines, next generation sequencing is a new technology that can provide a large amount of information, but a large amount of sequencing data is not always informative toward understanding adaptation. In small breakout groups, we will discuss when knowing the genes gives important insights into adaptation, conservation, and other questions that cannot be gleaned from more traditional (e.g., phenotype-based) approaches.
 
-### Evening Day 3: Poster session
+### Evening Day 3: Poster session and model/simulation demos
 
-We invite poster abstracts on any of the themes highlighted in the workshop schedule.
+We invite poster abstracts on any of the themes highlighted in the workshop schedule. We also invite people working with models and simulations (oceanographic or evolutionary) to set up a laptop and share their simulations.
 
 ## August 18
 ### Morning Day 4: Presentations: Connecting genotype to phenotype with transgenics 
