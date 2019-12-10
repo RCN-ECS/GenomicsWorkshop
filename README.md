@@ -33,7 +33,7 @@ More information will be posted about travel after applications are accepted for
 ### Morning Day 2: Presentations: Hypothesis Testing and Integrative Analyses in Genomics
 
 We invite presentations from a variety of marine and non-marine systems
-that go beyond simple "identify the genes." Abstracts that clearly state the hypothesis being tested and the outcome of the test will be given the highest score, or abstracts that integrate differents levels of data (e.g. phenotypic, genomic, population) to give new insights into classical evolutionary questions.
+that go beyond simple "identify the genes." We hope to highlight studies that test predictions of theory in new and interesting ways using genomic tools. Abstracts that (i) clearly state the hypothesis/model being tested and the outcome of the test, or (ii) integrate differents levels of data (e.g. phenotypic, genomic, population) to give new insights into classical evolutionary questions, will be given higher scores.
 
 ### Afternoon Day 2: Discussion of filtering, standards, and best practices
 
