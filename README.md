@@ -1,5 +1,5 @@
-# Research Coordinated Network for Evolution in Changing Seas
 # Genomics Workshop 2020 August 15-19
+## [Research Coordinated Network for Evolution in Changing Seas](https://rcn-ecs.github.io/)
 
 ## Location
 [Catalina Island Wrigley Institute](https://dornsife.usc.edu/wrigley/)
