@@ -4,6 +4,11 @@
 ## Location
 [Catalina Island Wrigley Institute](https://dornsife.usc.edu/wrigley/)
 
+## Information for Participants
+[Making travel plans](travel.md)
+[Housing request form due April 1](to do)
+
+
 ## Goals
 The goals for this workshop were determined by the Steering Committee and include the following:
 
