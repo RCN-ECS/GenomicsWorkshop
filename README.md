@@ -5,8 +5,10 @@
 [Catalina Island Wrigley Institute](https://dornsife.usc.edu/wrigley/)
 
 ## Information for Participants
-[Making travel plans](travel.md)
-[Housing request form due April 1](to do)
+* [Making travel plans](travel.md)
+* [Housing request form due April 1]
+* [Policy]
+* [Getting Reimbursed]
 
 
 ## Goals
