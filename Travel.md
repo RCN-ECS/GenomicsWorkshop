@@ -19,6 +19,8 @@ The boat ride is approximately 1.5 hours.
 
 We will update this page with information on parking when it becomes available.
 
+If you miss this boat because of unexpected travel delays, you will be able to find your way out to Catalina on the [Catalina Express](https://catalinaexpress.com/).
+
 ## August 19
 
 ### Chartered boats from Catalina to San Pedro depart at 10am from dock
