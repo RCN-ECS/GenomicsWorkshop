@@ -7,8 +7,8 @@
 ## Information for Participants
 * [Making travel plans](Travel.md)
 * [Roommate and shuttle bus request form (due March 15)](https://docs.google.com/forms/d/1ePIpPFNUkzlRau_zDvPizr86Wjryg9X8740Bxm7oaV4/edit)
-* [Policy]
-* [Getting Reimbursed]
+* [Code of Conduct](codeofconduct.md)
+* [Getting Reimbursed] Travel expenses will be reimbursed for all participants. Check back here later for more information.
 
 
 ## Goals
