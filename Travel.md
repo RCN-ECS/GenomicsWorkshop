@@ -5,7 +5,7 @@ The RCN will reimburse participants for the flights, parking, mileage, and other
 
 ## August 15
 
-### Flying in to LAX - arrive by 11:30 am
+### Flying in to LAX - arrive by 11:30am
 
 At 12:30pm, an RCN-sponsored shuttle bus will take participants from LAX to the dock where the boat will leave from. Please plan for your flight to arrive early enough to LAX so that you have time to catch the shuttle.
 
@@ -29,6 +29,6 @@ The boats will arrive at the Southern CA Marine Institute in San Pedro at 11:30a
 
 ### Flying out of LAX - plan your flight for 2pm or later
 
-A shuttle bus will take participants directly from the dock to LAX. We could arrive at LAX at between 12:30pm and 1:15pm depending on traffic.
+A shuttle bus will take participants directly from the dock to LAX. We could arrive at LAX between 12:30pm and 1:15pm depending on traffic.
 
 [Please fill out this form by March 1 to request a seat on the bus](https://docs.google.com/forms/d/1ePIpPFNUkzlRau_zDvPizr86Wjryg9X8740Bxm7oaV4/edit)
