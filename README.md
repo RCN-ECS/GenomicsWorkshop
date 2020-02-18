@@ -21,7 +21,10 @@ The goals for this workshop were determined by the Steering Committee and includ
 
 
 ## Application
-The application was due on January 15, 2019. We have funding to bring together ~50 people. All workshop costs and domestic travel costs will be covered by the RCN. Unfortunately, we do not have funds to reimburse international travel.
+The application was due on January 15, 2020. 
+
+___
+We have funding to bring together ~50 people. All workshop costs and domestic travel costs will be covered by the RCN. Unfortunately, we do not have funds to reimburse international travel.
 
 We encourage all applicants to submit an abstract for a talk or poster!
 
@@ -46,7 +49,7 @@ We invite presentations for seascape genomics studies, oceanography data resourc
 
 ### Afternoon Day 2: Discussion of *Using genomic data to define management units in marine systems* and *When the study question requires knowing the genes*
 
-How to use genomic data to define management units is not well resolved in marine systems, where lack of differentiation genome-wide does not always imply current connectivity. In addition, local adaptated ecotypes can occur below the scale of gene flow or management unit in marine fishery species. In small breakout groups, we will discuss how to interpret a signals of no genome-wide differentiation interspersed with genomic regions of highly elevated differentiation in the context of defining management units for fisheries and conservation. 
+How to use genomic data to define management units is not well resolved in marine systems, where lack of differentiation genome-wide does not always imply current connectivity. In addition, local adaptated ecotypes can occur below the scale of gene flow or management unit in marine fishery species. In small breakout groups, we will discuss how to interpret signals of no genome-wide differentiation interspersed with genomic regions of highly elevated differentiation in the context of defining management units for fisheries and conservation. 
 
 Along similar lines, next generation sequencing is a new technology that can provide a large amount of information, but a large amount of sequencing data is not always informative toward understanding adaptation. In small breakout groups, we will discuss when knowing the genes gives important insights into adaptation, conservation, and other questions that cannot be gleaned from more traditional (e.g., phenotype-based) approaches.
 
@@ -59,7 +62,7 @@ We invite poster abstracts on any of the themes highlighted in the workshop sche
 ### Morning Day 3: Presentations: Hypothesis Testing and Integrative Analyses in Genomics
 
 We invite presentations from a variety of marine and non-marine systems
-that go beyond simple "identify the genes." We hope to highlight studies that test predictions of theory in new and interesting ways using genomic tools. Abstracts that (i) clearly state the hypothesis/model being tested and the outcome of the test, or (ii) integrate differents levels of data (e.g. phenotypic, genomic, population) to give new insights into classical evolutionary questions, will be given higher scores.
+that go beyond simple "identify the genes." We hope to highlight studies that test predictions of theory in new and interesting ways using genomic tools. Abstracts that (i) clearly state the hypothesis/model being tested and the outcome of the test, or (ii) integrate different levels of data (e.g. phenotypic, genomic, population) to give new insights into classical evolutionary questions, will be given higher scores.
 
 ### Afternoon Day 3: Discussion of filtering, standards, and best practices
 
@@ -78,7 +81,7 @@ We invite poster abstracts on any of the themes highlighted in the workshop sche
 ### Morning Day 4: Presentations: Connecting genotype to phenotype with transgenics 
 
 To date, only a few marine species have well developed tools for genetic manipulation. In this session, we invite presentations on the successes and roadblocks in starting a transgenic project in aquatic (marine and non-marine) systems.
-Abstracts that have made sufficient progress on a transgenic progress to share results will be given the highest score.
+Abstracts that have made sufficient progress on a transgenic project to share results will be given the highest score.
 
 ### Afternoon Day 4: Time for breakout groups, collaborations, etc.
 
